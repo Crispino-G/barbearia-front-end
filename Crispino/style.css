@@ -1,0 +1,16 @@
+body{background-color: rgb(244, 250, 252);}
+
+h1{
+    color: hsl(19, 100%, 50%); text-align: center;
+}
+
+h2{
+    color: hsl(2, 100%, 51%); text-align: center;
+}
+
+.logo{
+    display: block;
+    max-width: 250px;
+}
+
+
