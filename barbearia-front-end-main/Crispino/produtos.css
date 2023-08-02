@@ -1,0 +1,14 @@
+body{background-color: rgb(163, 189, 236);}
+
+nav {
+    position: absolute;
+    right: 0;
+    top: 5px
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15;
+
+
+}
